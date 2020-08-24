@@ -1,0 +1,29 @@
+{
+  "name": "Emmanuel",
+  "short_name": "#ProgramadorEmmanuel",
+  "description": "Bienvenidos a pagina de presentacion para el la pragracio web. Recuerda... mente sana en cuerpo sano :)",
+  "background_color": "#ffffff",
+  "theme_color": "#027be3",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./img/logoE/logoE.png",
+      "sizes": "1000x1000",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/logoE/Letra_E_256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/logoE/Letra_E_64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ]
+}
