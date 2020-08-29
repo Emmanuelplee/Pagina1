@@ -26,10 +26,10 @@ body{
 .header{
   height: 100vh;
   /* background-image: url(../img/nueve.jpg); */
-  background-image: linear-gradient(to top, rgba(82, 42, 173, 0.5) 0%, rgba(251, 194, 235, 0.5) 100%), url(../img/nueve.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+  background-image: linear-gradient(to top, rgba(82, 42, 173, 0.5) 0%, rgba(251, 194, 235, 0.5) 100%), url(../img/nueve.jpg);
   background-position: center;
 }
 .head{
@@ -41,11 +41,9 @@ body{
   align-items: center;
   flex-direction: column;
   color: #ffff;
-  /* color: pink-lo; */
 }
 
 .hamburger{
-  /* z-index: 10; */
   position: fixed;
   top: 30px;
   right: 30px;
