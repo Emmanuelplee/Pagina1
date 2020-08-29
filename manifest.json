@@ -3,7 +3,7 @@
   "short_name": "#ProgramadorEmmanuel",
   "description": "Bienvenidos a pagina de presentacion para el la pragracio web. Recuerda... mente sana en cuerpo sano :)",
   "background_color": "#ffffff",
-  "theme_color": "#9f8ad0",
+  "theme_color": "#764ba2",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./?utm_source=web_app_manifest",
