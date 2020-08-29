@@ -1,6 +1,6 @@
 ;
 //asignar un nombre y versión al cache
-const CACHE_NAME = 'v1_cache_programador_fitness',
+const CACHE_NAME = 'v2_cache_programador_fitness',
   urlsToCache = [
     './',
     'https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap',
@@ -8,7 +8,7 @@ const CACHE_NAME = 'v1_cache_programador_fitness',
     'https://unpkg.com/boxicons@2.0.5/css/boxicons.min.css',
     './css/estilos.css',
     './script.js',
-    './img/logoE/logoE.png'
+    './img/logoE/E_512.png'
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
